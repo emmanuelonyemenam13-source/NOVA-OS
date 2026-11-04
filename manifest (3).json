@@ -1,0 +1,31 @@
+{
+  "background_color": "#eb0606",
+  "dir": "ltr",
+  "display": "minimal-ui",
+  "name": "NOVA OS",
+  "orientation": "any",
+  "scope": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap",
+  "short_name": "NOVA OS",
+  "start_url": "https://emmanuelonyemenam13-source.github.io/NOVA-OS/",
+  "theme_color": "#591111",
+  "id": "com.emmanuel.NOVA OS",
+  "description": "NOVA OS",
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "browser"
+  ],
+  "lang": "en",
+  "iarc_rating_id": "12+",
+  "categories": [
+    "developer",
+    "development",
+    "finance",
+    "music"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 12
+  }
+}
